@@ -1,0 +1,67 @@
+h3, .h3 {
+margin-top: 55px;
+margin-bottom: 10px;
+font-size: 32px;
+}
+
+body{
+    background-image: url(bg.jpg);
+    color: #2a6496;
+}
+.footer{
+    margin-top: 20px;
+    height: 20px;
+    clear: both;
+}
+
+.parteCentrale{
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.btn{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.immagine{
+    height: 30px;
+    width: 35px;
+    margin-left: 5px;
+    margin-top: 20px;
+
+}
+.logo{
+    height: 130px;
+    width: 135px;
+    margin-top: 5px;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+color: blue;
+cursor: pointer;
+background-color: #9acfea;
+border-radius:15px 15px 0 0;
+border: 1px solid #ddd;
+border-bottom-color: transparent;
+}
+.nav > li > a {
+position: relative;
+display: block;
+padding: 10px 15px;
+border-radius:15px 15px 0 0;
+
+}
+.acquista{
+    float: right;
+}
+.text-info{
+    color: #FF7A1A;
+    margin-top: 10px;
+}
+.home{
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.chisiamo{
+    margin-top: 50px;
+    font-size: 14px;
+}
